@@ -1,0 +1,17 @@
+﻿Current available online tutorial platforms
+Lynda.com [1]
+Lynda.com is an online learning platform where they offer courses in business, software, technology and creative skills to help any individual looking to improve their skill [1]. Lynda.com is founded in 1995 by Lynda Weinman. Lynda.com provides a subscription like system for their customers[1]. Customer needs to pay a monthly fee to gain unlimited access to all courses. Customers can learn on the go because it can be accessed on the web, Android and iOS. Lynda.com provides their customer with expert teacher which are respected professionals in their fields. 
+Udemy [3]
+Udemy is an online learning platform in where they offer courses in business, IT & software, music, personal development, design, marketing and more to any individuals. Udemy is founded Eren Bali in 2010 [2]. Unlike in lynda.com, Udemy do not do subscription services, Udemy provides their courses in a courses by courses basic, meaning each course may have different prices and customers can only enroll in the courses they are interested in [2]. There are courses which are free in Udemy which can be very compelling to individuals that are not financially strong. Udemy provides a rating system where students can rate the courses after they have finished the course [2]. This greatly help new students who are currently looking for courses. Udemy also allows the student to learn on the go as their platform can be accessed through the web, Android and iOS [3].
+Coursera [4]
+Coursera is a learning platform in where they offer courses in arts and humanities, business, computer science, data science, physical science and engineering, language learning and more. Coursera is founded on 2012 by Andrew Ng and Daphne Koller [4]. Coursera provides a model similar to Udemy. Coursera provides courses where their customer can pay for the single course or to pay for a Specialization. A Specialization is a group of courses which shares similar content such as Deep Learning, Data Science, Digital Marketing and more. Customers that pay for a Specialization can access to all courses within the Specialization.  All the courses on Coursera are provided by Universities or partner and taught by experienced professionals [5]. Unlike in Udemy, where almost anyone can sign up to teach a course, Coursera work closely with universities and partner to provide high quality courses to individuals [5]. Coursera can be accessed on the web, Android and iOS hence their customer can learn on the go. 
+
+Khan academy [6]
+Khan academy offers material in the form of instructional videos, practical exercises, and a dashboard personalized for learning [6]. Khan academy like the other online learning platforms allow learners to study at their own pace. It offers subjects such as history, art history, computer programming, math, economics, and more. Unlike the other online learning platforms, Khan academy is a non-profit organization. That means they are free and according to them to be free forever [6]. Khan academy believes in a world class education for anyone, anywhere.
+References
+[1] Lynda.com
+[2] Kay, P. Reimann and E. Diebold, MOOCs: So Many Learners, So Much Potential, 3rd ed. 2013, pp. 70-72.
+[3] Udemy.com 
+[4] Coursera.com 
+[5] P. Hyman, "In the year of disruptive education", pp. 20-22, 2012.
+[6] https://www.khanacademy.org/ 
