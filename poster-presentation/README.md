@@ -2,7 +2,7 @@
 
 ## Poster Presentation
 
-- [ ] Get Poster Template from eLearn 
+- [ ] Get Poster Template from eLearn
 - [ ] Design Poster
 - [ ] Poster content
   - [ ] Abstract
